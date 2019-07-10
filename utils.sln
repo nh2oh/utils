@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "utils", "utils\utils.vcxproj", "{6A063C0C-B415-40FB-BFFA-794AD82FF382}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rename2ascii", "rename2ascii\rename2ascii.vcxproj", "{163E0C8A-DD22-459F-9753-A62B9A9B4AEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -15,6 +17,10 @@ Global
 		{6A063C0C-B415-40FB-BFFA-794AD82FF382}.Debug|x64.Build.0 = Debug|x64
 		{6A063C0C-B415-40FB-BFFA-794AD82FF382}.Release|x64.ActiveCfg = Release|x64
 		{6A063C0C-B415-40FB-BFFA-794AD82FF382}.Release|x64.Build.0 = Release|x64
+		{163E0C8A-DD22-459F-9753-A62B9A9B4AEE}.Debug|x64.ActiveCfg = Debug|x64
+		{163E0C8A-DD22-459F-9753-A62B9A9B4AEE}.Debug|x64.Build.0 = Debug|x64
+		{163E0C8A-DD22-459F-9753-A62B9A9B4AEE}.Release|x64.ActiveCfg = Release|x64
+		{163E0C8A-DD22-459F-9753-A62B9A9B4AEE}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
